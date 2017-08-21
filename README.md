@@ -1,3 +1,7 @@
 # bf
 
-`bf` is a Turing complete language that consists of:
+`bf` is a Turing complete language that consists of eight characters:
+
+```
+><-.,+[]
+```
